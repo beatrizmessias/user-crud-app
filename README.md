@@ -6,7 +6,7 @@ A full-stack web application for managing users, built with Vue 3 (Composition A
 
 - Node.js (v18 or higher)
 - Python 3.8+
-- MongoDB running locally (or accessible via URI)
+- MongoDB running locally
 
 ## Technologies Used
 
