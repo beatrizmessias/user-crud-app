@@ -65,5 +65,3 @@ cd client
 npm install
 npm run dev
 ```
-
-Frontend will run at http://localhost:5173
